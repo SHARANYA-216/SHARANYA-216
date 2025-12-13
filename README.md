@@ -1,16 +1,22 @@
-## Hi there 👋
+ Hi, I'm Sharanya Kathroju 👋
 
-<!--
-**SHARANYA-216/SHARANYA-216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & ML Student | Aspiring AI Engineer  
+📍 Medchal,Telangana,India  
 
-Here are some ideas to get you started:
+🧠 Skills
+- Python, Java, C, JavaScript
+- AI/ML: TensorFlow, PyTorch, Scikit-learn
+- Web: HTML, CSS, React, Flask
+- Databases: MySQL, MongoDB, Pinecone
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Projects
+- **Medical AI Chatbot** – Flask, Pinecone, Gemini LLM
+- **Face Detection System** – OpenCV
+- **IBOMMA Clone** – HTML & CSS
+- **AI & ML Mini Projects** – Azure AI Fundamentals
+
+📫 Contact Me
+- 📧 Email: sharanyasrinivas216@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/kathroju-sharanya-83492a34b]
+- 🧑‍💻 GitHub: [https://github.com/SHARANYA-216]
