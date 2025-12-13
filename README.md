@@ -4,8 +4,7 @@
 📍 Medchal,Telangana,India  
 
  🌟 My Portfolio
-🔗 **Live Website:**  
-👉 [Portfolio](https://sharanyakathrojuportfolio.netlify.app/)
+👉 Make a glance : [Portfolio](https://sharanyakathrojuportfolio.netlify.app/)
 
 
 🧠 Skills
