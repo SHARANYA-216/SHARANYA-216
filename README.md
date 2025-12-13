@@ -3,6 +3,11 @@
 🎓 B.Tech AI & ML Student | Aspiring AI Engineer  
 📍 Medchal,Telangana,India  
 
+ 🌟 My Portfolio
+🔗 **Live Website:**  
+👉 [Portfolio](https://sharanyakathrojuportfolio.netlify.app/)
+
+
 🧠 Skills
 - Python, Java, C, JavaScript
 - AI/ML: TensorFlow, PyTorch, Scikit-learn
