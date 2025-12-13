@@ -10,7 +10,7 @@
 
 🧠 Skills
 - Python, Java, C, JavaScript
-- AI/ML: TensorFlow, PyTorch, Scikit-learn
+- AI/ML: Numpy,Pandas,Computer Vision,scikit-learn
 - Web: HTML, CSS, React, Flask
 - Databases: MySQL, MongoDB, Pinecone
 - Tools: Git, GitHub
